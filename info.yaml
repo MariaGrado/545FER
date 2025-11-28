@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "TESTEO DEL Convertidor de Tiempo a Digital (TDC)"      # Project title
+  title:        "TESTEO DEL Convertidor de Tiempo a Digital (TDC)."      # Project title
   author:       " DE LOS AUTORES Juan Vargas Ferrer & Luis Carlos Alvarez Simón"      # Your name
   discord:      "jferrer"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "El proyecto consiste en el diseño de un circuito Front end o interfaz para convertir a digital la señal proveniente de un sensor con salida en tiempo."      # One line description of what your project does
