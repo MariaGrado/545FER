@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 
-# Convertidor de Tiempo a Digital (TDC) TESTEO
+# Convertidor de Tiempo a Digital (TDC) TESTEO.
 
 # How it works
 
